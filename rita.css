@@ -1,0 +1,28 @@
+body{
+  background:#fafbb2;
+ background-image:url(https://tse3.mm.bing.net/th?id=OIP.9n_FWN4nk8rMaCC17b5KvgHaFj&pid=Api&P=0);
+ background-repeat: no-repeat;
+ background-position: right 0px top;
+ background-attachment: fixed;
+}
+
+h1 {
+  font-family: arial;
+  font-size:60px;
+  color: blue;
+  text-align: center;
+
+}
+h2{
+  font-size:40px;
+  text-align: left;
+  color: green;
+
+
+}
+h3 {
+  font-family: arial;
+  font-size:20px;
+  text-align: right;
+
+}
